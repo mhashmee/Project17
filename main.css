@@ -1,0 +1,295 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg {
+    background-image: url(./laptop-dark-room-banner-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+button {
+    color: black;
+    border-radius: 25px;
+    border: black;
+    transition: 0.8s;
+}
+
+button:hover {
+    outline-color: brown;
+    box-shadow: lightgray;
+}
+
+.flex {
+    display: flex;
+}
+
+.code {
+    font-size: 1.7rem;
+}
+
+.code1 {
+    font-size: 1.1rem;
+}
+
+.picture {
+    background-image: url(./2000x750/laptop-dark-room-banner-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 38rem;
+    width: 100%;
+    border: none;
+}
+
+.form {
+    height: 600px;
+    background-video: url(./night-sky-stars-concept-for-background-simple-vector-13572359.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form .div {
+    height: 500px;
+    width: 700px;
+    border-radius: 0 80px;
+    box-shadow: 0 0 20px 10px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+/* .form .div:hover {
+    transform: scale(1.1);
+} */
+
+
+/* .form .div .div:hover img { */
+
+
+/* transform: scaleX(2);
+    transition: 1s ease-in-out; */
+
+
+/* -webkit-transform: scale(1.3);
+    transform: scale(1.3); */
+
+
+/* .hover01 figure img { */
+
+
+/* .hover01 {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out; */
+
+
+}
+.hover01 figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.chil {
+    background-color: transparent;
+    height: 100px;
+    width: 150px;
+}
+
+/* .chil figure img:hover {
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+} */
+
+/* .form .div .div img:hover {
+    transform: rotate(1.5);
+    transition: 1s ease-in-out;
+} */
+.form form {
+    margin-top: 150px;
+}
+.form form input {
+    margin-bottom: 50px;
+    width: 80%;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+}
+.form form button:hover {
+    color: white;
+    background-color: tomato;
+}
+.form form button {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.mk {
+    border-radius: 50%;
+    border-color: tomato;
+}
+.nu {
+    border: 2px solid black;
+}
+.incon {
+    border: 2px solid black;
+    border-bottom: none;
+}
+.we {
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 8rem;
+}
+.this {
+    color: white;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+.read {
+    text-align: center;
+    margin-top: 2rem;
+}
+.btn0 {
+    color: white;
+    background: white;
+    height: 3rem;
+    width: 10rem;
+    background: transparent;
+    font-weight: bold;
+    border: 2px solid white;
+}
+.btn0:hover {
+    background: blue;
+    color: white;
+}
+.web {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.cam {
+    font-size: 10rem;
+    text-align: center;
+}
+.box:hover {
+    background-color: rgba(133, 126, 126, 0.74);
+    color: white;
+}
+.img {
+    height: 5rem;
+    width: 5rem;
+    margin: -1.5rem 0 0 5rem;
+}
+.jack {
+    font-size: 1.3rem;
+}
+.only {
+    margin-top: -.8rem;
+}
+.other {
+    border-top: 3px solid rgb(107, 104, 104);
+}
+.card-body:hover {
+    background-color: rgba(0, 255, 13, 0.664);
+    color: white;
+}
+.other:hover {
+    background-color: rgba(252, 141, 89, 0.356);
+    color: white;
+}
+.icon {
+    font-size: 1.5rem;
+}
+.contact {
+    text-align: center;
+    background-color: transparent;
+    border-radius: 0px 40px 0px 40px;
+    box-shadow: 2px 2px 50px 3px black;
+}
+.form {
+    background-image: url(./2000x750/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-control {
+    background-color: rgb(243, 247, 211);
+    margin: 1rem;
+    width: 500px;
+    text-align: center;
+}
+.trans {
+    margin: 0rem 4rem 4rem 4rem;
+}
+
+}
+.form-control :placeholder {
+    color: white;
+}
+.img1 {
+    height: 5rem;
+    width: 5rem;
+}
+.pro {
+    font-weight: bold;
+    margin: -5rem 0 0 7rem;
+}
+.theme {
+    text-align: left;
+    margin: 0rem 0 0 7rem;
+}
+.img2 {
+    height: 7rem;
+    width: 7rem;
+    border: 1px solid white;
+}
+
+/* Zoom In #1 */
+.hover01 figure img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+.call {
+    background-color: transparent;
+    height: 100px;
+    width: 150px;
+}
+.none {
+    border-top: 3px solid white;
+}
+.list {
+    list-style: none;
+}
+.btn01 {
+    color: white;
+    background: white;
+    height: 2rem;
+    width: 7rem;
+    background: transparent;
+    font-weight: bold;
+    border: 2px solid white;
+    text-align: center;
+}
+.btn01:hover {
+    background: red;
+    color: white;
+}
